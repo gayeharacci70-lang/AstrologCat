@@ -12,5 +12,5 @@ and JSON-based planetary coefficient data.
 Some articles may contain affiliate links.
 
 ## Website
-https://astrologcat.github.io/
+https://gayeharacci70-lang.github.io/AstrologCat/blog/italo-jewelry-astroloji-affiliate.html
 
