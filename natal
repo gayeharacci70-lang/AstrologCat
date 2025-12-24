@@ -1,0 +1,17 @@
+[
+  {
+    "rumuz": "Admin70",
+    "natal": {
+      "Güneş": { "burc": "Boğa", "katsayi": -1 },
+      "Ay": { "burc": "Balık", "katsayi": 5 },
+      "Merkür": { "burc": "Boğa", "katsayi": 1 },
+      "Venüs": { "burc": "İkizler", "katsayi": 2 },
+      "Mars": { "burc": "İkizler", "katsayi": 4 },
+      "Jüpiter": { "burc": "Terazi", "katsayi": -1 },
+      "Satürn": { "burc": "Boğa", "katsayi": -1 },
+      "Uranüs": { "burc": "Terazi", "katsayi": 0 },
+      "Neptün": { "burc": "Yay", "katsayi": 2 },
+      "Plüto": { "burc": "Başak", "katsayi": -1 }
+    }
+  }
+]
