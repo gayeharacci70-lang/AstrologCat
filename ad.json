@@ -1,7 +1,6 @@
 [
   {
-    "rumuz": "admin70",
-    "natal": {
+    "rumuz": "admin70",    
       "Güneş": { "burc": "Boğa", "katsayi": -1 },
       "Ay": { "burc": "Balık", "katsayi": 5 },
       "Merkür": { "burc": "Boğa", "katsayi": 1 },
@@ -11,7 +10,6 @@
       "Satürn": { "burc": "Boğa", "katsayi": -1 },
       "Uranüs": { "burc": "Terazi", "katsayi": 0 },
       "Neptün": { "burc": "Yay", "katsayi": 2 },
-      "Plüto": { "burc": "Başak", "katsayi": -1 }
-    }
+      "Plüto": { "burc": "Başak", "katsayi": -1 }    
   }
 ]
