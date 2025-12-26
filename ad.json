@@ -1,15 +1,15 @@
 [
   {
     "rumuz": "admin70",    
-      "Güneş": { "burc": "Boğa", "katsayi": -1 },
-      "Ay": { "burc": "Balık", "katsayi": 5 },
-      "Merkür": { "burc": "Boğa", "katsayi": 1 },
-      "Venüs": { "burc": "İkizler", "katsayi": 2 },
-      "Mars": { "burc": "İkizler", "katsayi": 4 },
-      "Jüpiter": { "burc": "Terazi", "katsayi": -1 },
-      "Satürn": { "burc": "Boğa", "katsayi": -1 },
-      "Uranüs": { "burc": "Terazi", "katsayi": 0 },
-      "Neptün": { "burc": "Yay", "katsayi": 2 },
-      "Plüto": { "burc": "Başak", "katsayi": -1 }    
+      "güneş": { "burc": "boğa", "katsayi": -1 },
+      "ay": { "burc": "balık", "katsayi": 5 },
+      "merkür": { "burc": "boğa", "katsayi": 1 },
+      "venüs": { "burc": "ikizler", "katsayi": 2 },
+      "mars": { "burc": "ikizler", "katsayi": 4 },
+      "jüpiter": { "burc": "terazi", "katsayi": -1 },
+      "satürn": { "burc": "boğa", "katsayi": -1 },
+      "uranüs": { "burc": "terazi", "katsayi": 0 },
+      "neptün": { "burc": "yay", "katsayi": 2 },
+      "plüto": { "burc": "başak", "katsayi": -1 }    
   }
 ]
