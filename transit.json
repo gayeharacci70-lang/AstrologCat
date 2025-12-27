@@ -26,5 +26,33 @@
   {
     "tarih": "2025-12-28",
     "güneş": -1, "ay": -2, "merkür": -1, "venüs": -1, "mars": -2, "jüpiter": -1, "satürn": -1, "uranüs": 2, "neptün": -1, "plüto": -1
+  },
+   {
+    "tarih": "2025-12-29",
+    "güneş": -1, "ay": -1, "merkür": 2, "venüs": -1, "mars": -1, "jüpiter": -1, "satürn": -1, "uranüs": 2, "neptün": -1, "plüto": -2
+  },
+    {
+    "tarih": "2025-12-30",
+    "güneş": -1, "ay": 4, "merkür": -1, "venüs": -1, "mars": -1, "jüpiter": -1, "satürn": -1, "uranüs": 2, "neptün": -1, "plüto": -1
+  },
+   {
+    "tarih": "2025-12-31",
+    "güneş": -1, "ay": 4, "merkür": -1, "venüs": -1, "mars": -1, "jüpiter": -1, "satürn": 2, "uranüs": 3, "neptün": 2, "plüto": -1
+  },
+  {
+    "tarih": "2026-01-01",
+    "güneş": -1, "ay": -1, "merkür": -1, "venüs": -1, "mars": -1, "jüpiter": -1, "satürn": -1, "uranüs": 2, "neptün": -1, "plüto": -1
+  },
+  {
+    "tarih": "2026-01-02",
+    "güneş": -1, "ay": 4, "merkür": 4, "venüs": -1, "mars": -1, "jüpiter": -1, "satürn": 4, "uranüs": 2, "neptün": 4, "plüto": -1
+  },
+    {
+    "tarih": "2026-01-03",
+    "güneş": -1, "ay": -1, "merkür": 3, "venüs": -1, "mars": -1, "jüpiter": -1, "satürn": 3, "uranüs": 2, "neptün": 3, "plüto": -1
+  },
+  {
+    "tarih": "2026-01-04",
+    "güneş": -2, "ay": -1, "merkür": 2, "venüs": -1, "mars": -2, "jüpiter": -1, "satürn": 3, "uranüs": 3, "neptün": 4, "plüto": -1
   }
 ]
