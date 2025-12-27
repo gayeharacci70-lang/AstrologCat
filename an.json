@@ -1,0 +1,15 @@
+[
+ {
+    "rumuz": "annem",    
+      "güneş": { "burc": "yengeç", "katsayi": 3 },
+      "ay": { "burc": "akrep", "katsayi": 1 },
+      "merkür": { "burc": "ikizler", "katsayi": 2 },
+      "venüs": { "burc": "aslan", "katsayi": -2 },
+      "mars": { "burc": "ikizler", "katsayi": 4 },
+      "jüpiter": { "burc": "oğlak", "katsayi": -2 },
+      "satürn": { "burc": "başak", "katsayi": 2 },
+      "uranüs": { "burc": "yengeç", "katsayi": 2 },
+      "neptün": { "burc": "terazi", "katsayi": 4 },
+      "plüto": { "burc": "aslan", "katsayi": 2 }    
+ }
+]
