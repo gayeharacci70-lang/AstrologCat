@@ -1,0 +1,15 @@
+[
+{
+    "rumuz": "trump",    
+      "güneş": { "burc": "ikizler", "katsayi": 5 },
+      "ay": { "burc": "yay", "katsayi": 4 },
+      "merkür": { "burc": "yengeç", "katsayi": 0 },
+      "venüs": { "burc": "yengeç", "katsayi": -2 },
+      "mars": { "burc": "aslan", "katsayi": 0 },
+      "jüpiter": { "burc": "terazi", "katsayi": 3 },
+      "satürn": { "burc": "yengeç", "katsayi": -1 },
+      "uranüs": { "burc": "ikizler", "katsayi": 4 },
+      "neptün": { "burc": "terazi", "katsayi": 1 },
+      "plüto": { "burc": "aslan", "katsayi": 0 }    
+  }
+]
