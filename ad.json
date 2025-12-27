@@ -11,31 +11,7 @@
       "uranüs": { "burc": "terazi", "katsayi": 0 },
       "neptün": { "burc": "yay", "katsayi": 2 },
       "plüto": { "burc": "başak", "katsayi": -1 }    
-  },
-    {
-    "rumuz": "trump",    
-      "güneş": { "burc": "ikizler", "katsayi": 5 },
-      "ay": { "burc": "yay", "katsayi": 4 },
-      "merkür": { "burc": "yengeç", "katsayi": 0 },
-      "venüs": { "burc": "yengeç", "katsayi": -2 },
-      "mars": { "burc": "aslan", "katsayi": 0 },
-      "jüpiter": { "burc": "terazi", "katsayi": 3 },
-      "satürn": { "burc": "yengeç", "katsayi": -1 },
-      "uranüs": { "burc": "ikizler", "katsayi": 4 },
-      "neptün": { "burc": "terazi", "katsayi": 1 },
-      "plüto": { "burc": "aslan", "katsayi": 0 }    
-  },
-   {
-    "rumuz": "elonmusk",    
-      "güneş": { "burc": "yengeç", "katsayi": 3 },
-      "ay": { "burc": "başak", "katsayi": 3 },
-      "merkür": { "burc": "yengeç", "katsayi": 3 },
-      "venüs": { "burc": "ikizler", "katsayi": 2 },
-      "mars": { "burc": "kova", "katsayi": -1 },
-      "jüpiter": { "burc": "akrep", "katsayi": -1 },
-      "satürn": { "burc": "ikizler", "katsayi": 0 },
-      "uranüs": { "burc": "terazi", "katsayi": 3 },
-      "neptün": { "burc": "yay", "katsayi": 0 },
-      "plüto": { "burc": "başak", "katsayi": 2 }    
   }
+    
+
 ]
