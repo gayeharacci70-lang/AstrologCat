@@ -1,0 +1,15 @@
+[
+ {
+    "rumuz": "erdogan",    
+      "güneş": { "burc": "balık", "katsayi": 2 },
+      "ay": { "burc": "yay", "katsayi": 2 },
+      "merkür": { "burc": "balık", "katsayi": 2 },
+      "venüs": { "burc": "balık", "katsayi": 2 },
+      "mars": { "burc": "yay", "katsayi": 3 },
+      "jüpiter": { "burc": "ikizler", "katsayi": 0 },
+      "satürn": { "burc": "akrep", "katsayi": 0 },
+      "uranüs": { "burc": "yengeç", "katsayi": -2 },
+      "neptün": { "burc": "terazi", "katsayi": -3 },
+      "plüto": { "burc": "aslan", "katsayi": 0 }    
+ }
+]
