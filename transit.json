@@ -87,13 +87,13 @@
     "tarih": "2026-01-12",
     "güneş": {"kat": -1, "olumlu": ["başak", "balık"], "olumsuz": ["koç", "boğa", "ikizler", "yengeç", "aslan", "terazi", "akrep", "yay", "oğlak", "kova"]} , 
     "ay": {"kat": -1, "olumlu": ["yengeç", "başak", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova"]}, 
-    "merkür": {-1}, 
-    "venüs": {-3}, 
-    "mars": {-1}, 
-    "jüpiter": {-1}, 
-    "satürn": {4}, 
-    "uranüs": {4}, 
-    "neptün": {2}, 
-    "plüto": {-2}
+    "merkür": {"kat": -1}, 
+    "venüs": "kat": 3}, 
+    "mars": {"kat": -1}, 
+    "jüpiter": {"kat": -1}, 
+    "satürn": {"kat": 4}, 
+    "uranüs": {"kat": 4}, 
+    "neptün": {"kat": 2}, 
+    "plüto": {"kat": -2}
   }
 ]
