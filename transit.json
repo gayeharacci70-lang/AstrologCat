@@ -82,6 +82,20 @@
    {
     "tarih": "2026-01-11",
     "güneş": -2, "ay": -2, "merkür": -1, "venüs": -3, "mars": -1, "jüpiter": -1, "satürn": 4, "uranüs": 4, "neptün": 2, "plüto": -2
+  }, 
+   {
+    "tarih": "2026-01-12",
+    "güneş": {"burc": "oğlak",  "kat": -1, "olumlu": ["başak", "balık"], "olumsuz": ["koç", "boğa", "ikizler", "yengeç", "aslan", "terazi", "akrep", "yay", "oğlak", "kova"]} , 
+    "ay": {"burc": "akrep", "kat": -1, "olumlu": ["yengeç", "başak", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova"]}, 
+    "merkür": {"burc": "oğlak", "kat": -1, "olumlu": ["boğa", "başak", "akrep", "balık"], "olumsuz": ["koç", "yengeç", "terazi", "oğlak"]}, 
+    "venüs": {"burc": "oğlak", "kat": -2, "olumlu": [], "olumsuz": ["koç", "boğa", "ikizler", "yengeç", "aslan", "başak", "terazi", "akrep", "yay", "oğlak", "kova", "balık"]}, 
+    "mars": {"burc": "oğlak", "kat": -1, "olumlu": [], "olumsuz": ["koç", "boğa", "yengeç", "başak", "terazi", "akrep", "oğlak", "balık"]}, 
+    "jüpiter": {"burc": "yengeç", "kat": -1, "olumlu": ["boğa", "başak", "akrep", "balık"], "olumsuz": ["koç", "yengeç", "terazi", "oğlak"]},  
+    "satürn": {"burc": "balık", "kat": 4, "olumlu": ["boğa", "ikizler", "aslan", "başak"], "olumsuz": ["koç", "yengeç", "terazi", "oğlak"]},
+    "uranüs": {"burc": "boğa", "kat": 5, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova"]},
+    "neptün": {"burc": "balık", "kat": 2, "olumlu": ["koç", "boğa", "ikizler", "yengeç", "aslan", "başak", "terazi", "akrep", "yay", "oğlak", "kova", "balık"], "olumsuz": []},
+    "plüto": {"burc": "kova", "kat": -1, "olumlu": ["başak", "balık"], "olumsuz": ["koç", "boğa", "ikizler", "yengeç", "aslan", "terazi", "akrep", "yay", "oğlak", "kova"]}
   }
+
 
 ]
