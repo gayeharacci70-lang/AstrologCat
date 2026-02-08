@@ -363,5 +363,5 @@
     "uranüs": {"burc": "boğa", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova]},
     "neptün": {"burc": "koç", "kat": 2, "olumlu": ["koç", "boğa", "ikizler", "yengeç", "aslan", "başak", "terazi", "akrep", "yay", "oğlak", "kova", "balık"], "olumsuz": []},
     "plüto": {"burc": "kova", "kat": 3, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["kova", "boğa", "aslan", "akrep"]}
-  },
+  }
 ]
