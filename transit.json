@@ -321,7 +321,7 @@
     "mars": {"burc": "kova", "kat": -2, "olumlu": [], "olumsuz": ["kova", "koç", "boğa", "ikizler", "aslan", "terazi", "akrep", "yay"]}, 
     "jüpiter": {"burc": "yengeç", "kat": -1, "olumlu": ["boğa", "başak", "akrep", "balık"], "olumsuz": ["yengeç", "koç", "terazi", "oğlak"]},  
     "satürn": {"burc": "koç", "kat": 3, "olumlu": ["boğa", "ikizler", "aslan", "başak", "akrep", "yay", "kova", "balık"], "olumsuz": ["koç", "yengeç", "terazi", "oğlak"]},
-    "uranüs": {"burc": "boğa", "kat": 3, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova]},
+    "uranüs": {"burc": "boğa", "kat": 3, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova"]},
     "neptün": {"burc": "koç", "kat": 3, "olumlu": ["koç", "boğa", "ikizler", "yengeç", "aslan", "başak", "terazi", "akrep", "yay", "oğlak", "kova", "balık"], "olumsuz": []},
     "plüto": {"burc": "kova", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["kova", "boğa", "aslan", "akrep"]}
   },
@@ -334,7 +334,7 @@
     "mars": {"burc": "kova", "kat": -2, "olumlu": [], "olumsuz": ["kova", "koç", "boğa", "ikizler", "aslan", "terazi", "akrep", "yay"]}, 
     "jüpiter": {"burc": "yengeç", "kat": -1, "olumlu": ["boğa", "başak", "akrep", "balık"], "olumsuz": ["yengeç", "koç", "terazi", "oğlak"]},  
     "satürn": {"burc": "koç", "kat": -1, "olumlu": ["boğa", "akrep"], "olumsuz": ["koç", "ikizler", "yengeç", "aslan", "başak", "terazi", "yay", "oğlak", "kova", "balık"]},
-    "uranüs": {"burc": "boğa", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova]},
+    "uranüs": {"burc": "boğa", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova"]},
     "neptün": {"burc": "koç", "kat": -1, "olumlu": ["boğa", "aslan", "akrep", "kova"], "olumsuz": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"]},
     "plüto": {"burc": "kova", "kat": 3, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["kova", "boğa", "aslan", "akrep"]}
   },
@@ -347,7 +347,7 @@
     "mars": {"burc": "kova", "kat": -1, "olumlu": ["yengeç", "oğlak"], "olumsuz": ["kova", "koç", "boğa", "ikizler", "aslan", "başak", "terazi", "akrep", "yay", "balık"]}, 
     "jüpiter": {"burc": "yengeç", "kat": -1, "olumlu": ["boğa", "başak", "akrep", "balık"], "olumsuz": ["yengeç", "koç", "terazi", "oğlak"]},  
     "satürn": {"burc": "koç", "kat": 2, "olumlu": ["boğa", "ikizler", "aslan", "başak", "akrep", "yay", "kova", "balık"], "olumsuz": ["koç", "yengeç", "terazi", "oğlak"]},
-    "uranüs": {"burc": "boğa", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova]},
+    "uranüs": {"burc": "boğa", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova"]},
     "neptün": {"burc": "koç", "kat": 2, "olumlu": ["koç", "boğa", "ikizler", "yengeç", "aslan", "başak", "terazi", "akrep", "yay", "oğlak", "kova", "balık"], "olumsuz": []},
     "plüto": {"burc": "kova", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["kova", "boğa", "aslan", "akrep"]}
   },
@@ -360,7 +360,7 @@
     "mars": {"burc": "kova", "kat": -2, "olumlu": ["yengeç", "oğlak"], "olumsuz": ["kova", "koç", "boğa", "ikizler", "aslan", "başak", "terazi", "akrep", "yay", "balık"]}, 
     "jüpiter": {"burc": "yengeç", "kat": -1, "olumlu": ["boğa", "başak", "akrep", "balık"], "olumsuz": ["yengeç", "koç", "terazi", "oğlak"]},  
     "satürn": {"burc": "koç", "kat": 2, "olumlu": ["boğa", "ikizler", "aslan", "başak", "akrep", "yay", "kova", "balık"], "olumsuz": ["koç", "yengeç", "terazi", "oğlak"]},
-    "uranüs": {"burc": "boğa", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova]},
+    "uranüs": {"burc": "boğa", "kat": 2, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["boğa", "aslan", "akrep", "kova"]},
     "neptün": {"burc": "koç", "kat": 2, "olumlu": ["koç", "boğa", "ikizler", "yengeç", "aslan", "başak", "terazi", "akrep", "yay", "oğlak", "kova", "balık"], "olumsuz": []},
     "plüto": {"burc": "kova", "kat": 3, "olumlu": ["koç", "ikizler", "yengeç", "başak", "terazi", "yay", "oğlak", "balık"], "olumsuz": ["kova", "boğa", "aslan", "akrep"]}
   }
