@@ -369,7 +369,7 @@
     "güneş": {"burc": "balık",  "kat": 2, "olumlu": ["balık", "boğa", "ikizler", "yengeç", "başak", "akrep", "yay", "oğlak"], "olumsuz": []} , 
     "ay": {"burc": "aslan", "kat": -1, "olumlu": ["koç", "ikizler", "terazi", "yay"], "olumsuz": ["aslan", "boğa", "akrep", "kova"]}, 
     "merkür": {"burc": "balık", "kat": 2, "olumlu": ["boğa", "yengeç", "akrep", "oğlak"], "olumsuz": ["balık", "ikizler", "başak", "yay"]}, 
-    "venüs": {"burc": "balık", "kat": -1, "olumlu": ["boğa", "akrep"], "olumsuz": ["balık", "koç", "ikizler", "yengeç", "aslan", "başak", "terazi", "yay", "oğlak", "kova"}, 
+    "venüs": {"burc": "balık", "kat": -1, "olumlu": ["boğa", "akrep"], "olumsuz": ["balık", "koç", "ikizler", "yengeç", "aslan", "başak", "terazi", "yay", "oğlak", "kova"]}, 
     "mars": {"burc": "kova", "kat": -2, "olumlu": ["yengeç", "oğlak"], "olumsuz": ["kova", "koç", "boğa", "ikizler", "aslan", "başak", "terazi", "akrep", "yay", "balık"]}, 
     "jüpiter": {"burc": "yengeç", "kat": -1, "olumlu": ["boğa", "başak", "akrep", "balık"], "olumsuz": ["yengeç", "koç", "terazi", "oğlak"]},  
     "satürn": {"burc": "koç", "kat": 2, "olumlu": ["boğa", "ikizler", "aslan", "başak", "akrep", "yay", "kova", "balık"], "olumsuz": ["koç", "yengeç", "terazi", "oğlak"]},
