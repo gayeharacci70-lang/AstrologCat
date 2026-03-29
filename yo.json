@@ -1,13 +1,13 @@
 {
     "rumuz": "yonca_ozbudak",    
-      "güneş": { "burc": "ikizler", "katsayi": 5 },
-      "ay": { "burc": "yay", "katsayi": 4 },
-      "merkür": { "burc": "yengeç", "katsayi": 0 },
-      "venüs": { "burc": "yengeç", "katsayi": -2 },
-      "mars": { "burc": "aslan", "katsayi": 0 },
-      "jüpiter": { "burc": "terazi", "katsayi": 3 },
-      "satürn": { "burc": "yengeç", "katsayi": -1 },
-      "uranüs": { "burc": "ikizler", "katsayi": 4 },
-      "neptün": { "burc": "terazi", "katsayi": 1 },
-      "plüto": { "burc": "aslan", "katsayi": 0 }    
+      "güneş": { "burc": "boğa", "katsayi": -2 },
+      "ay": { "burc": "akrep", "katsayi": 2 },
+      "merkür": { "burc": "ikizler", "katsayi": 1 },
+      "venüs": { "burc": "koç", "katsayi": 1 },
+      "mars": { "burc": "aslan", "katsayi": -1 },
+      "jüpiter": { "burc": "koç", "katsayi": 1 },
+      "satürn": { "burc": "kova", "katsayi": 1 },
+      "uranüs": { "burc": "başak", "katsayi": 1 },
+      "neptün": { "burc": "akrep", "katsayi": -2 },
+      "plüto": { "burc": "başak", "katsayi": 0 }    
   }
