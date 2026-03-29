@@ -1,5 +1,6 @@
-{
-    "rumuz": "yoncaozbudak",    
+[
+ {
+    "rumuz": "yonca_ozbudak",    
       "güneş": { "burc": "boğa", "katsayi": -2 },
       "ay": { "burc": "akrep", "katsayi": 2 },
       "merkür": { "burc": "ikizler", "katsayi": 1 },
@@ -11,3 +12,4 @@
       "neptün": { "burc": "akrep", "katsayi": -2 },
       "plüto": { "burc": "başak", "katsayi": 0 }    
   }
+]
